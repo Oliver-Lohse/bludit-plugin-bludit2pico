@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "CMSWB Bludit2Pico",
+		"description": "Exportiert den gesamten Inhalt des CMS als MarkDown-Files für die Nutzung in PICO. Klicken Sie den Button Export an, um den gesamten Inhalt zu entladen. Zusätzlich ist in Datei <code>bl-kernel/boot/variables.php</code> die Anpassung auf <code>define('NOTIFICATIONS_AMOUNT', 120)</code> ratsam."
+	}
+}
